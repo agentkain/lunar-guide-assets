@@ -1,0 +1,29 @@
+[
+  {
+    "date": "2026-08-25",
+    "creativeId": "LG-20260825-AFFIRM-DOOR-01",
+    "model": "gemini-3.1-flash-image",
+    "reference": "2026/08/week-08-17/stories/2026-08-17_01_AFFIRM_9x16.jpg",
+    "output": "pipeline/affirm-remotion/public/backgrounds/2026-08-25.png",
+    "bytes": 2290524,
+    "status": "generated"
+  },
+  {
+    "date": "2026-08-31",
+    "creativeId": "LG-20260831-AFFIRM-MOVEMENT-01",
+    "model": "gemini-3.1-flash-image",
+    "reference": "2026/08/week-08-17/stories/2026-08-17_01_AFFIRM_9x16.jpg",
+    "output": "pipeline/affirm-remotion/public/backgrounds/2026-08-31.png",
+    "bytes": 2458628,
+    "status": "generated"
+  },
+  {
+    "date": "2026-09-03",
+    "creativeId": "LG-20260903-AFFIRM-ANSWER-01",
+    "model": "gemini-3.1-flash-image",
+    "reference": "2026/08/week-08-17/stories/2026-08-17_01_AFFIRM_9x16.jpg",
+    "output": "pipeline/affirm-remotion/public/backgrounds/2026-09-03.png",
+    "bytes": 2323664,
+    "status": "generated"
+  }
+]

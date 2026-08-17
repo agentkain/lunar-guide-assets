@@ -1,0 +1,7 @@
+﻿node_modules/
+.remotion/
+pipeline/affirm-remotion/public/backgrounds/
+pipeline/affirm-remotion/out/
+production/*.local.json
+**/backgrounds/**/*.png
+out-background-contact-sheet.jpg

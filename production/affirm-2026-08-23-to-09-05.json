@@ -1,0 +1,99 @@
+{
+  "campaign": "AFFIRM — lock it in",
+  "dateRange": {
+    "start": "2026-08-23",
+    "end": "2026-09-05"
+  },
+  "claimStyle": "absolute-prophetic",
+  "distribution": {
+    "channels": ["instagram", "facebook"],
+    "formats": ["feed-4x5", "story-9x16"],
+    "paidEligibility": "organic-only"
+  },
+  "creatives": [
+    {
+      "date": "2026-08-23",
+      "creativeId": "LG-20260823-AFFIRM-ABUNDANCE-01",
+      "message": "Before September arrives, money will begin moving toward you in a new way.",
+      "motif": "a thin river of liquid gold appearing through a dark plum celestial haze"
+    },
+    {
+      "date": "2026-08-24",
+      "creativeId": "LG-20260824-AFFIRM-MILLION-01",
+      "message": "You will see your first million this year.",
+      "motif": "a distant radiant golden horizon beyond soft cosmic clouds"
+    },
+    {
+      "date": "2026-08-25",
+      "creativeId": "LG-20260825-AFFIRM-DOOR-01",
+      "message": "A door you thought was closed will open with your name on it.",
+      "motif": "an elegant glowing doorway suspended in a sparse midnight sky"
+    },
+    {
+      "date": "2026-08-26",
+      "creativeId": "LG-20260826-AFFIRM-ARRIVAL-01",
+      "message": "The life you prayed for is already learning your address.",
+      "motif": "a warm golden path winding toward a small luminous home beneath stars"
+    },
+    {
+      "date": "2026-08-27",
+      "creativeId": "LG-20260827-AFFIRM-NEWS-01",
+      "message": "You will receive news that changes how you see your future.",
+      "motif": "one bright star breaking through a velvety violet night"
+    },
+    {
+      "date": "2026-08-28",
+      "creativeId": "LG-20260828-AFFIRM-OPPORTUNITY-01",
+      "message": "Your next opportunity will pay you more than your last one.",
+      "motif": "ascending translucent gold steps disappearing into soft cosmic light"
+    },
+    {
+      "date": "2026-08-29",
+      "creativeId": "LG-20260829-AFFIRM-EXPANSION-01",
+      "message": "You are about to outgrow every limit you once accepted.",
+      "motif": "a delicate gold ring expanding through a dark celestial field"
+    },
+    {
+      "date": "2026-08-30",
+      "creativeId": "LG-20260830-AFFIRM-SEPTEMBER-01",
+      "message": "September will introduce you to the version of you who no longer settles.",
+      "motif": "a subtle human silhouette facing a radiant moonlit threshold"
+    },
+    {
+      "date": "2026-08-31",
+      "creativeId": "LG-20260831-AFFIRM-MOVEMENT-01",
+      "message": "Before this month ends, something you have waited for will move.",
+      "motif": "a still celestial pendulum beginning to glow over a copper mist"
+    },
+    {
+      "date": "2026-09-01",
+      "creativeId": "LG-20260901-AFFIRM-MOMENTUM-01",
+      "message": "September will be the month your momentum becomes undeniable.",
+      "motif": "a sweeping arc of golden stardust rising through a deep burgundy sky"
+    },
+    {
+      "date": "2026-09-02",
+      "creativeId": "LG-20260902-AFFIRM-GIFT-01",
+      "message": "You will be paid for the gift you once doubted.",
+      "motif": "a softly glowing pearl resting in open shadowed hands"
+    },
+    {
+      "date": "2026-09-03",
+      "creativeId": "LG-20260903-AFFIRM-ANSWER-01",
+      "message": "The answer arriving this week will be bigger than the question.",
+      "motif": "a luminous circular portal reflected in a calm midnight sea"
+    },
+    {
+      "date": "2026-09-04",
+      "creativeId": "LG-20260904-AFFIRM-ROOMS-01",
+      "message": "Your name will enter rooms your feet have not reached yet.",
+      "motif": "a sequence of distant golden archways fading into velvet darkness"
+    },
+    {
+      "date": "2026-09-05",
+      "creativeId": "LG-20260905-AFFIRM-CLOSER-01",
+      "message": "By tonight, you will know you are closer than you thought.",
+      "motif": "a crescent moon lowering toward a warm glowing horizon at dusk"
+    }
+  ]
+}
