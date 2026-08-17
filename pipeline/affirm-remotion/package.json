@@ -1,0 +1,21 @@
+{
+  "name": "lunar-guide-affirm-remotion",
+  "private": true,
+  "scripts": {
+    "generate:backgrounds": "python scripts/generate-backgrounds.py",
+    "render": "node scripts/render.mjs",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@remotion/cli": "latest",
+    "@remotion/google-fonts": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "remotion": "latest"
+  },
+  "devDependencies": {
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "typescript": "latest"
+  }
+}
