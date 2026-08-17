@@ -75,8 +75,7 @@ def caption_for(message: str, reflection: str) -> str:
     return (
         f"{message}\n\n"
         f"{reflection}\n\n"
-        "✨ Comment AFFIRM to lock it in.\n"
-        "Follow @lunarguideapp and share this with someone who needs the reminder.\n\n"
+        "✨ Comment AFFIRM to lock it in and be sure to follow and share.\n\n"
         "#affirmation #abundance #manifestation #goodthingsarecoming "
         "#trusttheprocess #spiritualgrowth #lunarguide"
     )
